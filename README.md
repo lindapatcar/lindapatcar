@@ -25,7 +25,7 @@ _También permite incluir enlaces con cierta facilidad._
 * Da las gracias públicamente 🤓.
 * etc.
 
-
+Los primeros archivos fueron subidos en el espacio de trabajo desde la máquina de mi esposo, razón por la que aparece como colaborador... no sé qué hizo y luego si aparecí yo 😊
 
 ---
-Usando contribuciones de [Villanuevand](https://github.com/Villanuevand) 😊
+Usando contribuciones de [Villanuevand](https://github.com/Villanuevand) 
